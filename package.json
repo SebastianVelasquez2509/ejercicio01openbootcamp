@@ -1,0 +1,23 @@
+{
+  "name": "ejercicio001",
+  "version": "1.0.0",
+  "description": "Solucion ejercicio 1 de openBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ejercicio1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianVelasquez2509/ejercicio01openbootcamp.git"
+  },
+  "keywords": [
+    "Ejercicio001"
+  ],
+  "author": "SebastianVelasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianVelasquez2509/ejercicio01openbootcamp/issues"
+  },
+  "homepage": "https://github.com/SebastianVelasquez2509/ejercicio01openbootcamp#readme"
+}
